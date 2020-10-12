@@ -1,10 +1,7 @@
-# School_District_Analysis
+# School District Analysis
 Module 4
 
-# PyBer_Analysis
-Module 5
-
-## Overview of the school district analysis
+## Overview of the School District analysis
 
 Explain the purpose of this analysis
 
