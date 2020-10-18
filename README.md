@@ -14,8 +14,10 @@ Resources - Data Sources : schools_complete.csv, students_complete.csv; Software
 ## School District Results
 
 Comparison of District Summary from orignal analysis and revised analysis (without Thomas HS 9th grade scores) shown below:
+
 Original:
 ![DistrictSummary_original](https://user-images.githubusercontent.com/71353552/96369479-6d439e00-1117-11eb-858b-757f84202b14.PNG)
+
 Revised:
 ![DistrictSummary_revised](https://user-images.githubusercontent.com/71353552/96369482-70d72500-1117-11eb-8e28-db81b9dc5450.PNG)
 
