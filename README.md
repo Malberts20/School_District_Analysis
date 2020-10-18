@@ -13,6 +13,12 @@ Resources - Data Sources : schools_complete.csv, students_complete.csv; Software
 
 ## School District Results
 
+Comparison of District Summary from orignal analysis and revised analysis (without Thomas HS 9th grade scores) shown below:
+
+
+
+
+
 Use bulleted lists and images to address the following:
 
 How is district summary affected?
