@@ -22,7 +22,13 @@ Revised:
 
 ![District_revised](https://user-images.githubusercontent.com/71353552/96372037-32933300-1122-11eb-8adb-3a91233cd237.PNG)
 
-
+  - Revised Average Math Score lower by 0.1; from 79.0 to 78.9
+  - Revised Average Reading Score unchanged
+  - Revised % Passing Math lower by 20 bps; from 75.0% to 74.8%
+  - Revised % Passing Reading lower by 10 bps; from 85.8% to 85.7%
+  - Revised % Overall Passing lower by 30 bps; from 65.2% to 64.9%
+  
+  
 
 
 
@@ -32,7 +38,7 @@ Revised:
 
 Use bulleted lists and images to address the following:
 
-How is district summary affected?
+
 How is the school summary affected?
 How does replacing the scores affect Thomas HS performance relative to the other schools?
 How does replacing the scores affect the following:
@@ -43,7 +49,6 @@ How does replacing the scores affect the following:
   
 
 
-Reference results below from Spyder terminal (left inage) and from Election_Analysis.txt file (right image):
 
 
 ## School District Summary
