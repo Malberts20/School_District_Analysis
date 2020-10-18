@@ -32,6 +32,8 @@ Revised school summary:
 
 ![School_Summary_revised](https://user-images.githubusercontent.com/71353552/96372684-33799400-1125-11eb-9737-561ef0a2c5bc.PNG)
 
+Allschools unchanged in revised analysis with the exception of Thomas High School where the 9th grade scores wer changed - original Thomas HS:
+
 
 
 
