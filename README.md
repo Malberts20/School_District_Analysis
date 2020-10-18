@@ -72,24 +72,6 @@ Scores by School Type (revised)
 
 
 
-
-
-
-
-Use bulleted lists and images to address the following:
-
-
-
-
-  Math and Reading scores by grade
-  Scores by School Spending
-  Scores by School Size
-  Scores by School Type
-  
-
-
-
-
 ## School District Summary
 
 Summarize four (4) major changes in the updated analysis after the Thomas HS scores have been replaced with NaNs
