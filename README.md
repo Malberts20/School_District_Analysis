@@ -17,11 +17,13 @@ Comparison of District Summary from orignal analysis and revised analysis (witho
 
 Original:
 
-![DistrictSummary_original](https://user-images.githubusercontent.com/71353552/96369646-826cfc80-1118-11eb-9b8a-2866b0843d2f.PNG)
+![DistrictSummary_original](https://user-images.githubusercontent.com/71353552/96369795-150d9b80-1119-11eb-8362-e09c6c529ced.PNG)
 
 Revised:
 
-![DistrictSummary_revised](https://user-images.githubusercontent.com/71353552/96369482-70d72500-1117-11eb-8e28-db81b9dc5450.PNG)
+![DistrictSummary_revised](https://user-images.githubusercontent.com/71353552/96369796-16d75f00-1119-11eb-8652-a06240507b87.PNG)
+
+
 
 
 
