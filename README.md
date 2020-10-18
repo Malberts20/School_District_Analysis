@@ -32,49 +32,59 @@ Revised school summary:
 
 ![School_Summary_revised](https://user-images.githubusercontent.com/71353552/96372684-33799400-1125-11eb-9737-561ef0a2c5bc.PNG)
 
-All schools unchanged in revised analysis with the exception of Thomas High School where the 9th grade scores were changed 
+All schools unchanged in revised analysis with the exception of Thomas High School where the 9th grade scores were update to NaN. 
 
 Original Thomas HS:
 
 ![Thomas_original](https://user-images.githubusercontent.com/71353552/96372754-a256ed00-1125-11eb-9533-f9d1b2a923e4.PNG)
 
-Nominal changes in Thomas HS are summarized below:
+Nominal changes in Thomas HS revised analysis are summarized below:
   - Revised Average Math Score lower by 7 bps; from 83.42 to 83.35
   - Revised Average Reading Score higher by 5 bps; from 83.85 to 83.90
   - Revised % Passing Math lower by 8 bps; from 93.27% to 93.19%
   - Revised % Passing Reading lower by 29 bps; from 97.31% to 97.02%
   - Revised % Overall Passing lower by 32 bps; from 90.95% to 90.63%
 
-Top 5 schools by Overall Passing: (revised analysis) :
+Top 5 schools by Overall Passing: (revised analysis same as original except for Thomas HS changes noted above)
 
 ![Top5_revised](https://user-images.githubusercontent.com/71353552/96373853-5bb8c100-112c-11eb-9f5e-ef72a9578746.PNG)
 
-Bottom 5 schools by Overall Passing: (revised analysis
+Bottom 5 schools by Overall Passing: (revised analysis same as original)
 
 ![Bottom5_revised](https://user-images.githubusercontent.com/71353552/96373855-5d828480-112c-11eb-9023-1774baa82c6d.PNG)
 
-Math Scores (left) and Reading Scores (right) by Grade: (revised analysis)
+Math Scores (left) and Reading Scores (right) by Grade: (revised analysis same as original with exception to Thomas HS 9th grade)
 
 ![MathbyGrade_revised](https://user-images.githubusercontent.com/71353552/96373861-65422900-112c-11eb-938c-02b760a9e4e7.PNG)
 ![ReadingbyGrade_revised](https://user-images.githubusercontent.com/71353552/96373871-75f29f00-112c-11eb-8378-26f65832cbec.PNG)
 
-Scores by Spending : (revised)
+Scores by Spending : (revised analysis same as original)
 
 ![ScoresbySpending_revised](https://user-images.githubusercontent.com/71353552/96373881-80149d80-112c-11eb-939a-61a8e0796701.PNG)
 
-Scores by School Size (revised)
+Scores by School Size (revised analysis same as original)
 
 ![ScorebySize_revised](https://user-images.githubusercontent.com/71353552/96373882-84d95180-112c-11eb-8292-bf628a779650.PNG)
 
-Scores by School Type (revised)
+Scores by School Type (revised analysis same as original)
 
 ![ScorebyType_revised](https://user-images.githubusercontent.com/71353552/96373886-873bab80-112c-11eb-8e99-ab7c0e47caa6.PNG)
 
-
-
 ## School District Summary
 
-Summarize four (4) major changes in the updated analysis after the Thomas HS scores have been replaced with NaNs
+Replacing the 9th grade math and reading scores at Thomas High School to NaN had little change from the original analysis. 
 
+The major changes are in the district summary:
+  - Revised Average Math Score lower by 7 bps; from 83.42 to 83.35
+  - Revised Average Reading Score higher by 5 bps; from 83.85 to 83.90
+  - Revised % Passing Math lower by 8 bps; from 93.27% to 93.19%
+  - Revised % Passing Reading lower by 29 bps; from 97.31% to 97.02%
+  - Revised % Overall Passing lower by 32 bps; from 90.95% to 90.63%
+
+Nominal changes in Thomas HS revised analysis are summarized below:
+  - Revised Average Math Score lower by 7 bps; from 83.42 to 83.35
+  - Revised Average Reading Score higher by 5 bps; from 83.85 to 83.90
+  - Revised % Passing Math lower by 8 bps; from 93.27% to 93.19%
+  - Revised % Passing Reading lower by 29 bps; from 97.31% to 97.02%
+  - Revised % Overall Passing lower by 32 bps; from 90.95% to 90.63%
   
-
