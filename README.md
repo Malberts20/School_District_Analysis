@@ -1,5 +1,4 @@
 # School District Analysis
-Module 4
 
 ## Overview of the School District analysis
 
