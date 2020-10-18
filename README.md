@@ -38,12 +38,12 @@ Original Thomas HS:
 
 ![Thomas_original](https://user-images.githubusercontent.com/71353552/96372754-a256ed00-1125-11eb-9533-f9d1b2a923e4.PNG)
 
-Nominal changes in THomas HS are summarized below:
-  - Revised Average Math Score lower by 0.1; from 79.0 to 78.9
-  - Revised Average Reading Score unchanged at 81.9
-  - Revised % Passing Math lower by 20 bps; from 75.0% to 74.8%
-  - Revised % Passing Reading lower by 10 bps; from 85.8% to 85.7%
-  - Revised % Overall Passing lower by 30 bps; from 65.2% to 64.9%
+Nominal changes in Thomas HS are summarized below:
+  - Revised Average Math Score lower by 7 bps; from 83.42 to 83.35
+  - Revised Average Reading Score up 1 bps; from 83.89 to 83.90
+  - Revised % Passing Math lower by 8 bps; from 93.27% to 93.19%
+  - Revised % Passing Reading lower by 29 bps; from 97.31% to 97.02%
+  - Revised % Overall Passing lower by 32 bps; from 90.95% to 90.63%
 
 
 
