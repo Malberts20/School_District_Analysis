@@ -3,9 +3,13 @@ Module 4
 
 ## Overview of the School District analysis
 
-Explain the purpose of this analysis
+Tasked with preparing all standardizrd math and reading test data for analysis, reporting, and presentation to provide insights about performance trends and patterns.  These insights are used to inform discussions and strategic decisions at the school and district level.
 
-Resources - Data Source : election_results.csv; Software: Python 3.8; Jupyter Notebook 6.1.1
+After initial analysis was completed, it was noted that all the 9th grade math and reading scores were altered (academic dishonesty) and needed to be removed from the analysis.  These scores were replaced with NaN in the student dataset and the analysis was repeated.
+
+A comparison of the two analyses for key insights is provided below.
+
+Resources - Data Sources : schools_complete.csv, students_complete.csv; Software: Python 3.8; Jupyter Notebook 6.1.1; Libraries: pandas, numpy
 
 ## School District Results
 
