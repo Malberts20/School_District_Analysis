@@ -38,6 +38,8 @@ Revised school summary:
 
 
 
+
+
 Use bulleted lists and images to address the following:
 
 
