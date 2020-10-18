@@ -45,6 +45,33 @@ Nominal changes in Thomas HS are summarized below:
   - Revised % Passing Reading lower by 29 bps; from 97.31% to 97.02%
   - Revised % Overall Passing lower by 32 bps; from 90.95% to 90.63%
 
+Top 5 schools by Overall Passing with revised scores:
+
+![Top5_revised](https://user-images.githubusercontent.com/71353552/96373853-5bb8c100-112c-11eb-9f5e-ef72a9578746.PNG)
+
+Bottom 5 schools by Overall Passing with revised scores:
+
+![Bottom5_revised](https://user-images.githubusercontent.com/71353552/96373855-5d828480-112c-11eb-9023-1774baa82c6d.PNG)
+
+Math and Reading Scores by Grade with revised scores:
+
+![MathbyGrade_revised](https://user-images.githubusercontent.com/71353552/96373861-65422900-112c-11eb-938c-02b760a9e4e7.PNG)
+![ReadingbyGrade_revised](https://user-images.githubusercontent.com/71353552/96373871-75f29f00-112c-11eb-8378-26f65832cbec.PNG)
+
+Scores by Spending (revised)
+
+![ScoresbySpending_revised](https://user-images.githubusercontent.com/71353552/96373881-80149d80-112c-11eb-939a-61a8e0796701.PNG)
+
+Scores by School Size (revised)
+
+![ScorebySize_revised](https://user-images.githubusercontent.com/71353552/96373882-84d95180-112c-11eb-8292-bf628a779650.PNG)
+
+Scores by Scool Type (revised)
+
+![ScorebyType_revised](https://user-images.githubusercontent.com/71353552/96373886-873bab80-112c-11eb-8e99-ab7c0e47caa6.PNG)
+
+
+
 
 
 
