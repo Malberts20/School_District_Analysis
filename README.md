@@ -32,11 +32,15 @@ Revised school summary:
 
 ![School_Summary_revised](https://user-images.githubusercontent.com/71353552/96372684-33799400-1125-11eb-9737-561ef0a2c5bc.PNG)
 
-Allschools unchanged in revised analysis with the exception of Thomas High School where the 9th grade scores wer changed - original Thomas HS:
+All schools unchanged in revised analysis with the exception of Thomas High School where the 9th grade scores wer changed - original Thomas HS:
 
+![Thomas_original](https://user-images.githubusercontent.com/71353552/96372754-a256ed00-1125-11eb-9533-f9d1b2a923e4.PNG)
 
-
-
+- Revised Average Math Score lower by 0.1; from 79.0 to 78.9
+  - Revised Average Reading Score unchanged at 81.9
+  - Revised % Passing Math lower by 20 bps; from 75.0% to 74.8%
+  - Revised % Passing Reading lower by 10 bps; from 85.8% to 85.7%
+  - Revised % Overall Passing lower by 30 bps; from 65.2% to 64.9%
 
 
 
@@ -45,9 +49,8 @@ Allschools unchanged in revised analysis with the exception of Thomas High Schoo
 Use bulleted lists and images to address the following:
 
 
-How is the school summary affected?
-How does replacing the scores affect Thomas HS performance relative to the other schools?
-How does replacing the scores affect the following:
+
+
   Math and Reading scores by grade
   Scores by School Spending
   Scores by School Size
